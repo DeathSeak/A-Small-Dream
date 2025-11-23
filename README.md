@@ -130,18 +130,17 @@ Hello everyone, I am Death Seak(aka Debmalya), this is my first project and my f
 
 The maze generation, the fading timer, the little whispers — they all changed several times before they felt "right enough" to leave alone. There are still rough edges, but I wanted to keep some of that jam energy instead of polishing it into something it never was.
 
-If you’re a dev poking through the code: it’s all in `src/game.js`. It’s not perfect, but it’s honest.
+If you’re a dev poking through the code: it’s all in `src/game.js`. It’s not perfect, A.I. was also used at places, because I am still learning and learning is endless.
 
 ---
 
 ## Links 🔗
 
-[![Repo – A Small Dream](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/debmalyapyne/A-Small-Dream)
-[![Play – GitHub Pages](https://img.shields.io/badge/Play-GitHub_Pages-2088FF?style=flat-square&logo=github)](https://debmalyapyne.github.io/A-Small-Dream/)
+[![Repo – A Small Dream](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DeathSeak/A-Small-Dream)
+[![Play – GitHub Pages](https://img.shields.io/badge/Play-GitHub_Pages-2088FF?style=flat-square&logo=github)](https://DeathSeak.github.io/A-Small-Dream/)
 [![LittleJS Engine](https://img.shields.io/badge/Engine-LittleJS-00C853?style=flat-square)](https://github.com/KilledByAPixel/LittleJS)
 [![Jam – LittleJS 2025](https://img.shields.io/badge/Game_Jam-LittleJS_2025-FFB300?style=flat-square)](https://itch.io/jam/littlejs-game-jam-2025)
 
 ---
 
 _Tiny light. Vast night. A gentle exploration through fading memories._
-
