@@ -149,7 +149,7 @@ function memoryLineOffsetForLevel(level) {
   return level === 1 ? 0 : level === 2 ? 4 : 10;
 }
 function timeForLevel(level) {
-  return level === 1 ? 30 : level === 2 ? 60 : 80;
+  return level === 1 ? 30 : level === 2 ? 45 : 60;
 }
 function spawnLevelContent(level) {
   const { cols, rows } = mazeSizeForLevel(level);
