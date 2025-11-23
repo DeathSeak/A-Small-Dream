@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>A Small Dream</title>
+    <meta
+      name="description"
+      content="A short, emotional exploration game made with LittleJS"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Web fonts: Cinzel for title, Nunito for UI/body -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Cinzel+Decorative:wght@400;700;900&family=Nunito:wght@400;700;800&family=Fira+Code:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #0b0b12;
+        color: #eaeaf5;
+        font-family: "Nunito", system-ui, Segoe UI, Roboto, Arial, sans-serif;
+      }
+      /* Center canvas container */
+      body {
+        display: grid;
+        place-items: center;
+      }
+      .footer {
+        position: fixed;
+        left: 12px;
+        bottom: 8px;
+        opacity: 0.55;
+        font-size: 12px;
+      }
+      a {
+        color: #9ad2ff;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+
+      /* Using Fira Code from Google Fonts for narrative lines */
+    </style>
+  </head>
+  <body>
+    <div class="footer">A Small Dream · LittleJS · Theme: SMALL</div>
+    <!-- Use local LittleJS engine build -->
+    <script src="./vendor/littlejs.min.js"></script>
+    <!-- Game code -->
+    <script src="./src/game.js"></script>
+  </body>
+</html>
