@@ -2,7 +2,7 @@
 
 A minimalist maze exploration game where you navigate as a fading dream, collecting fragments of memory before the light goes quiet.
 
-[![GitHub Pages – Play Now](https://img.shields.io/badge/Play_on-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://debmalyapyne.github.io/A-Small-Dream/)
+[![GitHub Pages – Play Now](https://img.shields.io/badge/Play_on-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://DeathSeak.github.io/A-Small-Dream/)
 [![itch.io – Play Now](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://deathseak.itch.io/a-small-dream)
 
 Created for the [LittleJS Game Jam 2025](https://itch.io/jam/littlejs-game-jam-2025) Theme: **SMALL**
@@ -144,3 +144,4 @@ If you’re a dev poking through the code: it’s all in `src/game.js`. It’s n
 ---
 
 _Tiny light. Vast night. A gentle exploration through fading memories._
+
